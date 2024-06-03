@@ -1,24 +1,4 @@
 # git ignore file
-
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-*.msi
-bin/
-obj/
-Obj/
-Generated_Code/
-PrecompiledWeb
-ClientBin/
-
-
-# Local and user files #
-######################
 *.testsettings
 *.user
 *.suo
